@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning C and java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my eamal 1416741638@qq.com
+- 📫 How to reach me my email 1416741638@qq.com
 
 <!---
 Tan-zhen-yu/Tan-zhen-yu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
