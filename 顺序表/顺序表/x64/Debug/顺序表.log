@@ -1,0 +1,12 @@
+﻿  text.c
+D:\code\顺序表\顺序表\text.c(111,9): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+text.obj : error LNK2019: 无法解析的外部符号 InitList，函数 main 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 DestoryList，函数 main 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 ListEmpty，函数 main 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 DispList，函数 main 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 LocateElem1，函数 main 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 LocateElem2，函数 main 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 ListInsert，函数 main 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 ListDelete，函数 main 中引用了该符号
+text.obj : error LNK2019: 无法解析的外部符号 PX，函数 main 中引用了该符号
+D:\code\顺序表\x64\Debug\顺序表.exe : fatal error LNK1120: 9 个无法解析的外部命令

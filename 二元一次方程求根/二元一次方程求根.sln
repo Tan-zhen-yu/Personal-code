@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二元一次方程求根", "二元一次方程求根\二元一次方程求根.vcxproj", "{38DE84E4-5787-497A-BB8B-AB62ADC3FD4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38DE84E4-5787-497A-BB8B-AB62ADC3FD4F}.Debug|x64.ActiveCfg = Debug|x64
+		{38DE84E4-5787-497A-BB8B-AB62ADC3FD4F}.Debug|x64.Build.0 = Debug|x64
+		{38DE84E4-5787-497A-BB8B-AB62ADC3FD4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{38DE84E4-5787-497A-BB8B-AB62ADC3FD4F}.Debug|x86.Build.0 = Debug|Win32
+		{38DE84E4-5787-497A-BB8B-AB62ADC3FD4F}.Release|x64.ActiveCfg = Release|x64
+		{38DE84E4-5787-497A-BB8B-AB62ADC3FD4F}.Release|x64.Build.0 = Release|x64
+		{38DE84E4-5787-497A-BB8B-AB62ADC3FD4F}.Release|x86.ActiveCfg = Release|Win32
+		{38DE84E4-5787-497A-BB8B-AB62ADC3FD4F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E90FE3-0A5D-4325-A9B2-E3670E05BFC5}
+	EndGlobalSection
+EndGlobal

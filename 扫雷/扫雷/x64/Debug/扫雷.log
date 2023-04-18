@@ -1,0 +1,5 @@
+﻿  game.c
+  text.c
+  正在生成代码...
+D:\code\扫雷\扫雷\game.c(85): warning C4715: “Findmine”: 不是所有的控件路径都返回值
+  扫雷.vcxproj -> D:\code\扫雷\x64\Debug\扫雷.exe

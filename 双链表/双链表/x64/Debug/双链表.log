@@ -1,0 +1,4 @@
+﻿  test.cpp
+D:\code\双链表\双链表\test.cpp(28,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\code\双链表\双链表\test.cpp(28,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+  双链表.vcxproj -> D:\code\双链表\x64\Debug\双链表.exe
