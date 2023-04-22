@@ -1,5 +1,10 @@
 ﻿  test.cpp
 D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\test.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
-D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\zhan.h(1,1): warning C4828: 文件包含在偏移 0x493 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
-D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\test.cpp(12,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“double”
+D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\zhan.h(1,1): warning C4828: 文件包含在偏移 0x643 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\test.cpp(169,6): warning C4551: 缺少参数列表的函数调用
+D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\test.cpp(179,6): warning C4551: 缺少参数列表的函数调用
+D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\test.cpp(226,7): warning C4101: “c”: 未引用的局部变量
+D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\test.cpp(121): warning C4715: “SqGetTop1”: 不是所有的控件路径都返回值
+D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\test.cpp(49): warning C4715: “SqGetTop”: 不是所有的控件路径都返回值
+D:\Github Desktop\Personal-code\栈的数据结构\栈的数据结构\test.cpp(175): warning C4715: “LPop”: 不是所有的控件路径都返回值
   栈的数据结构.vcxproj -> D:\Github Desktop\Personal-code\栈的数据结构\x64\Debug\栈的数据结构.exe
