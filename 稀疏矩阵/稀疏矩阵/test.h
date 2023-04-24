@@ -6,7 +6,7 @@
 
 #define ROW 3
 #define COL 3
-#define Maxsize 2
+#define Maxsize 30
 
 typedef int ElemType;
 

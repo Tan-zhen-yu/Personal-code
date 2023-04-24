@@ -52,7 +52,7 @@ bool Value(TSMatrix& t, ElemType x, int i, int j)
 		}
 		return true;
 	}
-}
+} 
 
 
 bool Assign(TSMatrix t, ElemType& x, int i, int j)

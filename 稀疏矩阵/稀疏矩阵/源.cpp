@@ -12,9 +12,9 @@ int main()
 	CreateMat(t, arr);
 	 DisPlayarr(t);
 	 DispMat(t);
-	 TranTat(t,tb);
-	 DisPlayarr(tb);
-	 DispMat(tb);
-
+	 Value(t, 6, 0, 1);
+	 DisPlayarr(t);
+	 DispMat(t);
+	
 
 }
