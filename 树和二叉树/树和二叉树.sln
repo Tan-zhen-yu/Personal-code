@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "树和二叉树", "树和二叉树\树和二叉树.vcxproj", "{6817D0E9-2BA4-43FC-8547-BD03AF486313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6817D0E9-2BA4-43FC-8547-BD03AF486313}.Debug|x64.ActiveCfg = Debug|x64
+		{6817D0E9-2BA4-43FC-8547-BD03AF486313}.Debug|x64.Build.0 = Debug|x64
+		{6817D0E9-2BA4-43FC-8547-BD03AF486313}.Debug|x86.ActiveCfg = Debug|Win32
+		{6817D0E9-2BA4-43FC-8547-BD03AF486313}.Debug|x86.Build.0 = Debug|Win32
+		{6817D0E9-2BA4-43FC-8547-BD03AF486313}.Release|x64.ActiveCfg = Release|x64
+		{6817D0E9-2BA4-43FC-8547-BD03AF486313}.Release|x64.Build.0 = Release|x64
+		{6817D0E9-2BA4-43FC-8547-BD03AF486313}.Release|x86.ActiveCfg = Release|Win32
+		{6817D0E9-2BA4-43FC-8547-BD03AF486313}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {375E276B-AF39-4238-BE01-F36317E23943}
+	EndGlobalSection
+EndGlobal
