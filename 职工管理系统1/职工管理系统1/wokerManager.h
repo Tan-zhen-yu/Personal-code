@@ -21,11 +21,21 @@ public:
 
 	void save();
 
+	void deleteManager();
+
+	void queryManager();
+
+	void modifyManager();
+	
+	void quicksort(int a,int b);
+
 	int get_EmpNum();
 
 	void init_Emp();
 
 	void showWokerManager();
+
+	void delete_All();
 
 	bool m_FileIsEmpty;
 
