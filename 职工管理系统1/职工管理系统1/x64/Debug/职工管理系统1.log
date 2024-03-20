@@ -1,0 +1,3 @@
+﻿  wokerManager.cpp
+D:\Github Desktop\Personal-code\职工管理系统1\职工管理系统1\wokerManager.cpp(168,8): warning C4101: “dId”: 未引用的局部变量
+  职工管理系统1.vcxproj -> D:\Github Desktop\Personal-code\职工管理系统1\x64\Debug\职工管理系统1.exe
